@@ -1,0 +1,36 @@
+body{
+	background-image: url(../images/bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+h3{
+	text-transform: uppercase;
+	/*color: #ffffff;*/
+	font-weight: bold;
+	position: absolute;
+	text-align: center;
+	margin-left: 200px;
+	margin-top: 300px;
+	font-size: 50px;
+	color: #EF054A;
+}
+.container{
+	margin-top: 10px;
+	box-shadow: 10px;
+	flex-basis: 300px;
+    padding: 3em;
+    justify-content: center;
+	background: rgba(171, 171, 171, 0.34);
+	width: 1000px;
+	height: 800px;
+}
+p{
+	font-weight: bold;
+	text-align: center;
+	margin-left: 0px;
+	margin-top: 380px;
+	font-size: 20px;
+	color: #ffffff;
+}
