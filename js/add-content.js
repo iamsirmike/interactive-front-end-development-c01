@@ -15,3 +15,4 @@ if (hourNow > 18) {
 
 // document.write('<h3>' + greeting + '</h3>'); //write greeting on the html page
 document.getElementById("greetings").innerHTML = greeting;
+console.log(today);
