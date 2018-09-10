@@ -3,7 +3,7 @@ var hourNow = today.getHours(); //get the hours value from the date
 var greeting;  //Declare greeting variable
 
 //
-if (hourNow > 18) {
+if (hourNow > 17) {
     greeting = 'Good evening!'; //if hours is greater than 18 display good evening
 } else if (hourNow > 12) {
     greeting = 'Good afternoon!'; //if hours is greater than 12 display good afternoon 
